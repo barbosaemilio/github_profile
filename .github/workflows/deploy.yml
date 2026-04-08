@@ -1,0 +1,6 @@
+📁 .github
+   📁 workflows
+      📄 deploy.yml   👈 arquivo criado manualmente
+📁 src
+📄 vite.config.js
+📄 package.json
